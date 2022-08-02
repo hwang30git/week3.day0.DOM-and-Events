@@ -6,3 +6,5 @@
 
 ## Helpful Resources
 - [W3Schools on JavaScript DOM methods](https://www.w3schools.com/js/js_htmldom_methods.asp)
+
+HUI, BRIAN
